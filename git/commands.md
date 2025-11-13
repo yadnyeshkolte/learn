@@ -9,7 +9,6 @@ nav_order: 1
 
 | NO. | Git Commands | Description |
 | --- | ------------ | ----------- |
-
 | 1 | `git init` | Initialize git in current folder |
 | 2 | `git status` | Show status of current git repository |
 | 3 | `git add .` | All files will go in staging |
