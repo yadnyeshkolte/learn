@@ -4,6 +4,11 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to My Learning Site
+# Welcome to My Learning Documentation
 
-This is the home page of my documentation.
+Quick reference guides for:
+
+- **Git** - Version control commands and workflows
+- **Linux** - Useful commands and bash scripting
+
+Use the navigation menu to explore different topics.
