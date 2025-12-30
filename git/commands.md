@@ -43,3 +43,4 @@ nav_order: 1
 | 40 | `rm -rf files` | Delete files permanently |
 | 41 | `git rm --cached gradle.properties` | Stop the tracking of this file |
 | 42 | `git commit -m "Stop tracking gradle.properties"` | Commit after removing tracking of the file |
+| 43 | `git config --list` | Displays all Git configuration settings |
