@@ -9,8 +9,8 @@ nav_order: 1
 
 | No. | Linux Command | Description |
 | --- | ------------- | ----------- |
-| 1 | `open .` | Open the folder you are in, in files GUI |
-| 2 | `open 'Git commands Linux.odt'` | Will open this file in default operating software |
+| 1 | `xdg-open .` | Open the folder you are in, in files GUI |
+| 2 | `xdg-open 'Git commands Linux.odt'` | Will open this file in default operating software |
 | 3 | `which javac` | Will show the path where the javac file is located |
 | 4 | `ls -R` | Show the file in folders and subfolders |
 | 5 | `man echo` | Get the details of echo command |
